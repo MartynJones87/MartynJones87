@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Martyn. I am currently the Computer Science Technical Lead at [We Predict Ltd](https://www.wepredict.com).
+My name is Martyn. I am currently the Computer Science Technical Lead at [We Predict](https://www.wepredict.com).
 
 My role covers a variety of different areas:
 
