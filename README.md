@@ -19,7 +19,7 @@ I'm part of the core team that manages the network and servers, so turn my hand 
 I live just outside of [Swansea in Wales, UK](https://www.google.com/maps/place/Swansea/@51.6255141,-3.9655064,14z/data=!3m1!4b1!4m5!3m4!1s0x486e45555a4e97b1:0x3d77128e2fe7cb74!8m2!3d51.62144!4d-3.943646) with my wife and son and our dog, Bob and cat, Jasper.
 
 - 📫 How to reach me: [Twitter](https://www.twitter.com/thurboman)
-- ✍️ I am going to start writing on my new (blog)[https://martynjones87.github.io] 🤞
+- ✍️ I am going to start writing on my new [blog](https://martynjones87.github.io) 🤞
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning to speak Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
