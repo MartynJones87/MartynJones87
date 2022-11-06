@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Martyn. I am currently the Computer Science Technical Lead at [We Predict](https://www.wepredict.com).
+My name is Martyn. I am currently a Computer Science Technical Lead in the [Repair Analytics and Data](https://www.jdpower.com/business/we-predict) department at J.D. Power.
 
 My role covers a variety of different areas:
 
