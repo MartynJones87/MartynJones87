@@ -20,7 +20,7 @@ One day, this could be writing front-end TypeScript code for a ASP.Net Web appli
 
 I'm part of the core team that manages the network and servers, so turn my hand to whatever situations arise.
 
-I live in the UK, just outside of [Rugby]([https://www.google.com/maps/place/Swansea/@51.6255141,-3.9655064,14z/data=!3m1!4b1!4m5!3m4!1s0x486e45555a4e97b1:0x3d77128e2fe7cb74!8m2!3d51.62144!4d-3.943646](https://en.wikipedia.org/wiki/Rugby,_Warwickshire)), with my wife and son and our dog, Bob and cat, Jasper.
+I live in the UK, just outside of [Rugby](https://en.wikipedia.org/wiki/Rugby,_Warwickshire), with my wife and son and our dog, Bob and cat, Jasper.
 
 - 📫 How to reach me: [Mastodon]([https://www.twitter.com/thurboman](https://hachyderm.io/@thurboman))
 - ✍️ I am going to start writing on my new [blog](https://martynjones87.github.io) 🤞
